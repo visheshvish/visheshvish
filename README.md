@@ -11,7 +11,7 @@
   
 - 💬 Ask me about Python or any tech related stuff.
   
-- 📫 How to reach me: [Linkedin - Vishesh Vishwakarma](www.linkedin.com/in/vishesh-vishwakarma)
+- 📫 How to reach me: [Linkedin - Vishesh Vishwakarma](https://www.linkedin.com/in/vishesh-vishwakarma/)
   
 - 😄 Pronouns: He/His
   
