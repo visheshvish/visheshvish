@@ -11,7 +11,7 @@
 
 ### Hola, i'm Vishesh Vishwakarma ! 👋
   
-  <img align="right" alt="GIF" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif?raw=true" width="500" height="420" />
+  <img align="right" alt="GIF" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif?raw=true" width="500" height="400" />
 
   
 
