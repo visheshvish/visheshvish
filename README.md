@@ -1,18 +1,5 @@
 <h1 align="center">Awesome GitHub Profile README 
------------------------------------------------
-  
-  
-<i>A curated list of awesome Github Profile READMEs</i>
 
-<a href="https://github.com/visheshvish/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/visheshvish/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/visheshvish/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/visheshvish/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/visheshvish/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/visheshvish/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/visheshvish/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/visheshvish/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/visheshvish/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/visheshvish/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/visheshvish/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/visheshvish/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
-  
-
-  
 ### Hola, i'm Vishesh Vishwakarma ! 👋
   
 
