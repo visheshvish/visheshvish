@@ -3,12 +3,6 @@
   
   ---------------------------------------------
   
-  
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/visheshvish/count.svg" />
-</p>
-
 ### Hola, i'm Vishesh ! 👋
   
   <img align="right" alt="GIF" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif?raw=true" width="500" height="400" />
